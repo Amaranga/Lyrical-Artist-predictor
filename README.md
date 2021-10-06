@@ -6,6 +6,7 @@ This project is about building a text classifacation model on song lyrics that p
 
 It starts by asking the user to enter names of two artists and then it scrapes lyrics of the given artists from www.lyrics.com and merge and save them as CSV file. If the CSV files already exist in the folder the program will skip the scraping step. Then, after vectorizing the lyrics, a Naive Bayes model will be trained on lyrics by using the name of the artists as the target. Finally, the user can enter any new lyrics from either artist for the model to predict the name of the artist of that song.
 
+<img src= "gif file.gif">
 
 ## Badges
 
@@ -14,10 +15,7 @@ It starts by asking the user to enter names of two artists and then it scrapes l
 
   
 ## Usage
-
-- clone the repository
-
-- run the Jupyter notebook
+- run python lyrics_predictor_module.py file in the terminal. 
 
   
 ## Tech Stack

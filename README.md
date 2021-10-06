@@ -15,6 +15,8 @@ It starts by asking the user to enter names of two artists and then it scrapes l
 
   
 ## Usage
+- clone the repository.
+- pip install the requirements.txt
 - run python lyrics_predictor_module.py file in the terminal. 
 
   
